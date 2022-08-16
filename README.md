@@ -6,4 +6,5 @@ Submission for the Senior Full Stack Software Engineer position at [WoFlow](http
 
 1. clone repo
 2. navigate to `solution` directory
-3. run command: `python3 node_on_nodes_challenge.py`
+3. install required dependencies (requests library) by running command: `python3 -m pip install -r requirements.txt`
+3. run command: `python3 solution.py`
